@@ -1,0 +1,17 @@
+#+TITLE: EG postupy: Co udělat při výměně údajů mezi agendami a informačními systémy
+#+AUTHOR: Neoficiální metodický a kontrolní materiál od egdilna.cz v rámci typizovaných EG postupů pro úřady
+#+LANGUAGE: cs
+#+OPTIONS: H:4 toc:nil prop:1  
+#+TODO: NEZAHÁJENO(n) ZADÁNO(z) ROZPRACOVANÉ(r) DODĚLAT(d) POKOREKTUŘE UPRAVOVÁNO(u) | KEKOREKTUŘE(k) HOTOVO(h) FINÁLNÍ(f) AKTUALIZOVÁNO(a@)
+
+
+* NEZAHÁJENO Úvod
+* NEZAHÁJENO Rámec
+** NEZAHÁJENO Popis problematiky
+** NEZAHÁJENO Legislativa
+** NEZAHÁJENO Základní povinnosti
+** NEZAHÁJENO Rámec IKČR
+** NEZAHÁJENO Národní architektura
+* NEZAHÁJENO Strany a jejich role
+* NEZAHÁJENO Seznam co udělat
+Na tyto věci je třeba si dávat pozor a při jednáních je uplatňovat a společně je řešit. Lze využít také jako jednoduchý návod a krokový seznam při přípravě, projednávání a realizaci souvisejících projektů.

@@ -3,14 +3,36 @@
 #+LANGUAGE: cs
 #+OPTIONS: H:4 toc:nil prop:1  
 #+TODO: NEZAHÁJENO(n) ZADÁNO(z) ROZPRACOVANÉ(r) DODĚLAT(d) POKOREKTUŘE UPRAVOVÁNO(u) | KEKOREKTUŘE(k) HOTOVO(h) FINÁLNÍ(f) AKTUALIZOVÁNO(a@)
+Verze 0.1
 
+* NEZAHÁJENO Úvod a použití
+Toto je kontrolní seznam a postup zejména využitelný pro architekty a odborníky pro ICT v úřadech. Udává podrobnosti a návody, jak postupovat v jednotlivé oblasti.
 
-* NEZAHÁJENO Úvod
+Postup najdete vždy v rámci repozitáře [[https://gitlab.com/egdilna/eg-postupy][Konkrétní postupy EG pro úřady]] na GitLabu EGdílna či odkazem z webu [[http://www.egdilna.cz][egdilna.cz]]
+
+Aktuální verze
+
+- 
+
+Pracovní verze:
+
+- [[https://gitlab.com/egdilna/eg-postupy/-/blob/Work/Kontroln%C3%AD%20seznam%20Co%20udělat%20při%20výměně%20údajů.org][https://gitlab.com/egdilna/eg-postupy/-/blob/Work/Kontroln%C3%AD%20seznam%20Co%20udělat%20při%20výměně%20údajů.org]]
+
+Pracovní úkoly a změnové požadavky k tomuto postupu najdete jako příslušné  issues v rámci [[https://gitlab.com/egdilna/eg-postupy/-/milestones/1][Milníku úkolů]]
+
 * NEZAHÁJENO Rámec
+S touto věcí souvisejí následující legislativní a architektonické oblasti a prvky. Využijte je také pro nastudování celého kontextu.
 ** NEZAHÁJENO Popis problematiky
 ** NEZAHÁJENO Legislativa
 ** NEZAHÁJENO Základní povinnosti
 ** NEZAHÁJENO Rámec IKČR
+Související cíle (realizují se tím)
+
+Z [[https://archi.gov.cz/ikcr][Informační koncepce ČR]] souvisejí následující
+
+Související architektonické principy a zásady  (je v souladu)
+
+
 ** NEZAHÁJENO Národní architektura
 * NEZAHÁJENO Strany a jejich role
 * NEZAHÁJENO Seznam co udělat

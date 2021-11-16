@@ -30,13 +30,13 @@ S touto věcí souvisejí následující legislativní a architektonické oblast
 ** NEZAHÁJENO Rámec IKČR
 Související cíle (realizují se tím)
 
+Z [[https://archi.gov.cz/ikcr][Informační koncepce ČR]] souvisejí následující
+
 - Dílčí cíl 1.3: Rozvoj univerzálních front-office služeb
 - Dílčí cíl 3.4: Zkvalitnění Registru práv a povinností a jeho obsahu
 - Dílčí cíl 4.7: Zavedení procesního řízení a řízení služeb ve veřejné správě
 - Dílčí cíl 5.6: Standardizace v EG a službách
 - Dílčí cíl 5.9: Rozvoj Propojeného datového fondu (PPDF)
-
-Z [[https://archi.gov.cz/ikcr][Informační koncepce ČR]] souvisejí následující
 
 Související architektonické principy a zásady  (je v souladu)
 

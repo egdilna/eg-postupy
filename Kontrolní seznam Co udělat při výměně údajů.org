@@ -1,4 +1,4 @@
-#+TITLE: EG postupy: Co udělat při výměně údajů mezi agendami a informačními systémy
+    #+TITLE: EG postupy: Co udělat při výměně údajů mezi agendami a informačními systémy
 #+AUTHOR: Neoficiální metodický a kontrolní materiál od egdilna.cz v rámci typizovaných EG postupů pro úřady
 #+LANGUAGE: cs
 #+OPTIONS: H:4 toc:nil prop:1  
@@ -7,6 +7,8 @@ Verze 0.1
 
 * NEZAHÁJENO Úvod a použití
 Toto je kontrolní seznam a postup zejména využitelný pro architekty a odborníky pro ICT v úřadech. Udává podrobnosti a návody, jak postupovat v jednotlivé oblasti.
+
+Tento postup se týká toho, když si dva úřady mají mezi svými informačními systémy standardním způsobem vyměňovat údaje.
 
 Postup najdete vždy v rámci repozitáře [[https://gitlab.com/egdilna/eg-postupy][Konkrétní postupy EG pro úřady]] na GitLabu EGdílna či odkazem z webu [[http://www.egdilna.cz][egdilna.cz]]
 

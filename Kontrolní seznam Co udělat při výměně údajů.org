@@ -28,9 +28,8 @@ S touto věcí souvisejí následující legislativní a architektonické oblast
 ** NEZAHÁJENO Legislativa
 ** NEZAHÁJENO Základní povinnosti
 ** NEZAHÁJENO Rámec IKČR
-Související cíle (realizují se tím)
-
 Z [[https://archi.gov.cz/ikcr][Informační koncepce ČR]] souvisejí následující
+Související cíle (realizují se tím)
 
 - Dílčí cíl 1.3: Rozvoj univerzálních front-office služeb
 - Dílčí cíl 3.4: Zkvalitnění Registru práv a povinností a jeho obsahu

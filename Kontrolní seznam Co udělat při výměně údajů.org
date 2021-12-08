@@ -1,4 +1,4 @@
-    #+TITLE: EG postupy: Co udělat při výměně údajů mezi agendami a informačními systémy
+#+TITLE: EG postupy: Co udělat při výměně údajů mezi agendami a informačními systémy
 #+AUTHOR: Neoficiální metodický a kontrolní materiál od egdilna.cz v rámci typizovaných EG postupů pro úřady
 #+LANGUAGE: cs
 #+OPTIONS: H:4 toc:nil prop:1  
@@ -24,7 +24,7 @@ Pracovní úkoly a změnové požadavky k tomuto postupu najdete jako přísluš
 
 * NEZAHÁJENO Rámec
 S touto věcí souvisejí následující legislativní a architektonické oblasti a prvky. Využijte je také pro nastudování celého kontextu.
-* NEZAHÁJENO Popis problematiky
+** NEZAHÁJENO Popis problematiky
 ** NEZAHÁJENO Legislativa
 ** NEZAHÁJENO Základní povinnosti
 ** NEZAHÁJENO Rámec IKČR

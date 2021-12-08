@@ -1,4 +1,4 @@
-    #+TITLE: EG postupy: Co udělat při výměně údajů mezi agendami a informačními systémy
+    #+TITLE: EG postupy: Jak udělat zhodnocení naplňování EG povinností a nápravy (asessment povinností)
 #+AUTHOR: Neoficiální metodický a kontrolní materiál od egdilna.cz v rámci typizovaných EG postupů pro úřady
 #+LANGUAGE: cs
 #+OPTIONS: H:4 toc:nil prop:1  

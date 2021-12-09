@@ -24,7 +24,8 @@ Pracovní úkoly a změnové požadavky k tomuto postupu najdete jako přísluš
 
 * NEZAHÁJENO Rámec
 S touto věcí souvisejí následující legislativní a architektonické oblasti a prvky. Využijte je také pro nastudování celého kontextu.
-** NEZAHÁJENO Popis problematiky
+** ROZPRACOVANÉ Popis problematiky
+Úřady si mezi sebou vyměňují údaje mezi jednotlivými agendovými informačními systémy (AIS) pro výkon svých činností v rámci agend. Výměna údajů probíhá buď na základě aktuálního konkrétního zmocnění a nebo bude probíhat v rámci propojeného datového fondu.
 ** NEZAHÁJENO Legislativa
 ** NEZAHÁJENO Základní povinnosti
 ** NEZAHÁJENO Rámec IKČR

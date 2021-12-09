@@ -1,4 +1,4 @@
-    #+TITLE: EG postupy: Jak udělat zhodnocení souladu svých informačních systémů s EG požadavky (asessment informačních systémů)
+#+TITLE: EG postupy: Jak udělat zhodnocení souladu svých informačních systémů s EG požadavky (asessment informačních systémů)
 #+AUTHOR: Neoficiální metodický a kontrolní materiál od egdilna.cz v rámci typizovaných EG postupů pro úřady
 #+LANGUAGE: cs
 #+OPTIONS: H:4 toc:nil prop:1  

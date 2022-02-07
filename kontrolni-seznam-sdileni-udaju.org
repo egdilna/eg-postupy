@@ -1,4 +1,4 @@
-    #+TITLE: EG postupy: Jak udělat zhodnocení naplňování EG povinností a nápravy (asessment povinností)
+#+TITLE: EG postupy: Co udělat při výměně údajů mezi agendami a informačními systémy
 #+AUTHOR: Neoficiální metodický a kontrolní materiál od egdilna.cz v rámci typizovaných EG postupů pro úřady
 #+LANGUAGE: cs
 #+OPTIONS: H:4 toc:nil prop:1  
@@ -10,7 +10,7 @@ Toto je kontrolní seznam a postup zejména využitelný pro architekty a odborn
 
 Tento postup se týká toho, když si dva úřady mají mezi svými informačními systémy standardním způsobem vyměňovat údaje.
 
-Postup najdete vždy v rámci repozitáře [[https://gitlab.com/egdilna/eg-postupy][Konkrétní postupy EG pro úřady]] na GitLabu EGdílna či odkazem z webu [[http://www.egdilna.cz][egdilna.cz]]
+Postup najdete vždy v rámci repozitáře [[https://github.com/egdilna/eg-postupy][GitHub - egdilna/eg-postupy]]
 
 Aktuální verze
 
@@ -18,13 +18,14 @@ Aktuální verze
 
 Pracovní verze:
 
-- https://gitlab.com/egdilna/eg-postupy/-/blob/Work/Kontroln%C3%AD%20seznam%20Co%20udělat%20při%20výměně%20údajů.org
+- 
 
 Pracovní úkoly a změnové požadavky k tomuto postupu najdete jako příslušné  issues v rámci [[https://gitlab.com/egdilna/eg-postupy/-/milestones/1][Milníku úkolů]]
 
 * NEZAHÁJENO Rámec
 S touto věcí souvisejí následující legislativní a architektonické oblasti a prvky. Využijte je také pro nastudování celého kontextu.
-* NEZAHÁJENO Popis problematiky
+** ROZPRACOVANÉ Popis problematiky
+Úřady si mezi sebou vyměňují údaje mezi jednotlivými agendovými informačními systémy (AIS) pro výkon svých činností v rámci agend. Výměna údajů probíhá buď na základě aktuálního konkrétního zmocnění a nebo bude probíhat v rámci propojeného datového fondu.
 ** NEZAHÁJENO Legislativa
 ** NEZAHÁJENO Základní povinnosti
 ** NEZAHÁJENO Rámec IKČR

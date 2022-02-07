@@ -18,8 +18,7 @@ Aktuální verze
 
 Pracovní verze:
 
-- 
-[[https://github.com/egdilna/eg-postupy/blob/Work/kontrolni-seznam-sdileni-udaju.org][https://github.com/egdilna/eg-postupy/blob/Work/kontrolni-seznam-sdileni-udaju.org]]
+- [[https://github.com/egdilna/eg-postupy/blob/Work/kontrolni-seznam-sdileni-udaju.org][https://github.com/egdilna/eg-postupy/blob/Work/kontrolni-seznam-sdileni-udaju.org]]
 
 
 

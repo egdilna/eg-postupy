@@ -19,8 +19,9 @@ Aktuální verze
 Pracovní verze:
 
 - 
+[[https://github.com/egdilna/eg-postupy/blob/Work/kontrolni-seznam-sdileni-udaju.org][https://github.com/egdilna/eg-postupy/blob/Work/kontrolni-seznam-sdileni-udaju.org]]
 
-Pracovní úkoly a změnové požadavky k tomuto postupu najdete jako příslušné  issues v rámci [[https://gitlab.com/egdilna/eg-postupy/-/milestones/1][Milníku úkolů]]
+
 
 * NEZAHÁJENO Rámec
 S touto věcí souvisejí následující legislativní a architektonické oblasti a prvky. Využijte je také pro nastudování celého kontextu.

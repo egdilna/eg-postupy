@@ -1,4 +1,4 @@
-# EG postupy: Kontrolní seznam asessmentu EG povinností
+# Kontrolní seznam asessmentu EG povinností
 
 Verze 0.1
 
@@ -8,35 +8,54 @@ Zpracováno jako výstup projektu egdilna.cz a partnerů v rámci EG konkrétní
 
 Toto je kontrolní seznam a postup zejména využitelný pro architekty a odborníky pro ICT v úřadech. Udává podrobnosti a návody, jak postupovat v jednotlivé oblasti.
 
-- [ ] aktualizovat odstavec Tento postup se týká toho, jak postupovat při zhodnocení stavu a souladu svých informačních systémů s požadavky na ně kladenými (asessment informačn)
+- [ ] aktualizovat odstavec Tento postup se týká toho, jak postupovat při zpracování zhodnocení stavu plnění EG povinností (tzv. Asessment povinností) v úřadu.
 
 Postup najdete vždy v rámci repozitáře [GitHub - egdilna/eg-postupy](https://github.com/egdilna/eg-postupy)
 
 Aktuální verze
 
-- 
+-
 
 Pracovní verze:
 
-- [https://github.com/egdilna/eg-postupy/blob/Work/kontrolni-seznam-asessment-is.md](https://github.com/egdilna/eg-postupy/blob/Work/kontrolni-seznam-asessment-is.md)
-
-
-
-
+- [https://github.com/egdilna/eg-postupy/blob/Work/kontrolni-seznam-asessment-egpovinnosti.md](https://github.com/egdilna/eg-postupy/blob/Work/kontrolni-seznam-asessment-egpovinnosti.md)
 
 - [ ] celé přepsat pro asessment povinností Úřad by si měl zpracovat přehled svých informačních systémů a jejich souladu se všemi požadavky eGovernmentu a připravit si roadmapu, jak svoje systémy upravit tak, aby v souladu byly.
 
-Jednotlivé kroky jsou následující:
+## Proč zpracovávat Asessment povinností
 
-1. Zpracování Assessmentu informačních systémů : Úřad zpracuje Assessment informačních systémů a jejich souladu s EG a jeho výsledky využije pro zhodnocení souladu a pro soupis potřebných kroků pro uvedení do souladu.
-1. Zakreslení svých informačních systémů do architektury : Úřad si na aplikační vrstvě architektury zakreslí všechny informační systémy, které sám spravuje. Tyto údaje pak slouží jako zdroj pro ohlášení do RPP.
-1. Zakreslení cizích užívaných informačních systémů do architektury : Úřad si na aplikační vrstvě architektury zakreslí informační systémy, u kterých není správcem, ale užívá je. Využije k tomu údaje z Rejstříku informačních systémů v RPP.
-1. Zakreslení aplikační dekompozice do architektury : Úřad si na aplikační vrstvě architektury zakreslí dekompozici jím spravovaných informačních systémů, a to minimálně v rozsahu, který ohlašuje k informačnímu systému v RPP. Tyto údaje pak slouží jako zdroj pro ohlášení do RPP.
-1. Sebehodnocení souladu informačního systému s EG požadavky : Úřad u každého informačního systému  provede zhodnocení naplňování vyžadovaných EG požadavků.
-1. Soupis služeb poskytovaných informačním systémem : Úřad pro každý IS vytvoří seznam služeb, které informační systém poskytuje.
-1. Definovat připravenost nových povinných sdílených služeb informačního systému : Úřad si pro každý jím spravovaný informační systém veřejné správy či určený informační systém zhodnotí kroky, které je třeba udělat, aby tento informační systém poskytoval povinně definované služby prostřednictvím EGSB.
-1. Zpracování datové architektury informačních systémů : Úřad si pro každý jím spravovaný informační systém musí zpracovat seznam informací a údajů, které v něm vede, ve kterém je využívá či které z něj poskytuje. Zpracovává to s ohledem na potřebu ohlášení údajů v agendách a s ohledem na pravidla strukturování dat informačních systémů veřejné správy. Datová architektura každého informačního systému je součástí datové architektury úřadu.
-1. Určení údajů v informačních systémech podle jejich typu : Úřad v datové architektuře určí údaje podle jejich typu. Rozdělí si údaje na: referenční údaje, agendové údaje, poskytované agendové údaje, využívané agendové údaje, provozní údaje a údaje logování a auditu. Podle těchto typů pak postupuje při vytváření a úpravě služeb svých informačních systémů.
-1. Zpracování cílové architektury informačních systémů : Úřad podle sebehodnocení souladu svých informačních systémů s EG požadavky zpracuje cílovou architekturu pro každý jím spravovaných informačních systémů. Tato cílová architektura již bude zahrnovat požadovaný to-be stav systému, který splňuje všechny požadavky a obsahuje všechny služby včetně povinných sdílených služeb. Při zpracování cílové architektury využije také výsledky dekompozice informačních systémů, a to zejména tam, kde existují společné komponenty využívané více informačními systémy.
-1. Soupis změn pro splnění cílové architektury : Úřad si pro každý jím spravovaných informačních systémů zpracuje potřebné změny, aby informační systém splňoval veškeré požadavky. K tomu využije cílovou architekturu informačního systému.
-1. Zanesení potřeb změn informačních systémů do svojí informační koncepce : Úřad při zpracování nové informační koncepce využije příležitosti a zapracuje do ní také cílové architektury informačních systémů a potřebné změny informačních systémů. To bude součástí zejména částí k rozvoji informačních systémů, které spravuje.
+Assessment povinností je dokumentem, respektive daty, v nichž si subjekt vyhodnotí, jaké má základní EG povinnosti a jak je naplňuje. U každé povinnosti uvede míru jejich plnění a také postup, jak případné nedostatky v jejich naplňování opravit.
+Je to tedy jednak znalost o povinnostech, jednak přehled zodpovědnosti za sledování jejich plnění a jednak roadmapa k odstranění systémových nedostatků v rámci digitalizace a eGovernmentu.
+
+Assessment se stává z tabulky obsahující:
+
+- Jednotlivé povinnosti
+- Obecný stav jejich plnění
+- Uvedení zodpovědnosti za sledování povinnosti v rámci úřadu
+- Prioritizaci a časovou mapu nápravy nedostatků
+• Vyhodnocení postupu při aktualizacích assessmentu
+
+## Použití Mapy EG povinností jako zdroje seznamu povinností
+
+Mapa EG povinností je souborem povinností týkajících se ICT, eGovernmentu a architektury, které plynou z jednotlivých právních předpisů a dalších závazných předpisů a dokumentů. Postupně se tak buduje báze znalostí o povinnostech, které jednotlivé druhy subjektů mají. U každého úřadu tak může na základě těchto znalostí vznikat zhodnocení (assessment) naplňování povinností z jejich strany, tedy vyžaduje jí Tvorba assesmentu plnění povinností na základě mapy povinností.
+Mapu povinností může kdokoliv využít pro základní přehled toho, co musí obecně v rámci elektronizace a digitalizace plnit a podle jakého konkrétního právního předpisu takovou povinnost má. To jsou důležité znalosti, aby si úřad dokázal představit, jak bude dané obecné povinnosti plnit. A samozřejmě se to netýká jen úřadů či orgánů veřejné moci, ale všech skupin subjektů.
+Mapu povinností a její obsah lze obecně použít kupříkladu k následujícímu:
+
+1. Jako základní znalost o obecných povinnostech, které nejsou formou úkonů a služeb v RPP, ale jsou důležité obdobně
+2. Soubor toho, co jako povinnost musí někdo obecně naplňovat a zajistit si tak její plnění na procesní, architektonické, technické vrstvě
+3. Podklad pro kvalitnější řízení ICT pro splnění povinností EG legislativy
+4. Podklad pro závaznou část příloh k Informační koncepci OVS u těch, kteří mají povinnost mít a udržovat a vyhodnocovat svoji informační koncepci - Tvorba assesmentu plnění povinností na základě mapy povinností
+
+My ji využijeme jako zdroj se soupisem všech EG povionností včetně legislativního určení a přiřazení podle rolí.
+
+Tato data jsou prezentována ve formě datové sady otevřených dat a lze je stáhnout, nebo procházet prostřednictvím webové aplikace
+
+- [On-line verze dokumentace](mapa-povinnosti-dokumentace.html)
+- [Dokumentace ve formě souboru DOCX](mapa-povinnosti-dokumentace.docx)
+- [Webová aplikace Mapa EG povinností](https://airtable.com/shrXrjDosrC90Pmad/tblNus2OArc8XSVHA)
+
+Více vždy najdete aktuálně na adrese <http://www.openczeg.cz/povinnosti>
+
+## Postup zpracování asessmentu a práce s ním
+
+- [ ] Sem pak zkopírovat ty záznamy z Katalogu postupů až to bude správně seřazené a po korektuře

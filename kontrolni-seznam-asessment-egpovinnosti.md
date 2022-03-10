@@ -14,18 +14,14 @@ Postup najdete vždy v rámci repozitáře [GitHub - egdilna/eg-postupy](https:/
 
 Aktuální verze
 
-- https://github.com/egdilna/eg-postupy/blob/main/kontrolni-seznam-asessment-egpovinnosti.md
-
+- [https://github.com/egdilna/eg-postupy/blob/main/kontrolni-seznam-asessment-egpovinnosti.md](https://github.com/egdilna/eg-postupy/blob/main/kontrolni-seznam-asessment-egpovinnosti.md)
 
 Pracovní verze:
 
-- https://github.com/egdilna/eg-postupy/blob/main/kontrolni-seznam-asessment-egpovinnosti.md
+- [https://github.com/egdilna/eg-postupy/blob/main/kontrolni-seznam-asessment-egpovinnosti.md](https://github.com/egdilna/eg-postupy/blob/main/kontrolni-seznam-asessment-egpovinnosti.md)
 blob/main/kontrolni-seznam-asessment-egpovinnosti.md)
 
 Úřad za účelem vyplnění přílohy své informační koncepce a především pro lepší poznání svých potřeb v rozvoji ICT a činností kolem IT, si zpracovává zhodnocení plnění povinností. Pro IK a samotné řízení informatiky a informačních systémů je přitom nezbytné zejména dobře rozumět a poznat svoje povinnosti k digitalizaci a eGovernmentu, které udávají [klíčové EG zákony](https://www.openczeg.cz/legislativa/). Zpracuje si tedy asessment plnění těchto povinností a využívá jej pro další rozhodování o projektech a prioritách rozvoje.
-
-
-
 
 ## Proč zpracovávat Asessment povinností
 
@@ -65,7 +61,7 @@ Více vždy najdete aktuálně na adrese <http://www.openczeg.cz/povinnosti>
 
 Při zhodnocení plnění povinností (Assessment povinností) postupujeme následovně:
 
-1.  Otevřeme si Mapu EG povinností jako jeden z hlavních zdrojů povinností k elektronizaci a provedeme vyfiltrování povinností podle všech našich rolí a následně provedeme export filtrovaných dat do CSV souboru.
+1. Otevřeme si Mapu EG povinností jako jeden z hlavních zdrojů povinností k elektronizaci a provedeme vyfiltrování povinností podle všech našich rolí a následně provedeme export filtrovaných dat do CSV souboru.
 2. Vytvoříme si ze zdrojového CSV souboru kupříkladu tabulku v Excelu, nebo v jiném datovém nástroji, kde se nám bude s daty rychle a snadno pracovat. Kromě sloupců z CSV z Mapy povinností, z nichž některé můžeme později odstranit (ovšem pole KÓD necháme vždy), přidáme alespoň sloupce pro Zodpovědnost a Stav plnění a pro naše poznámky. Tím získáme tabulku se všemi povinnostmi a s podklady pro naše zhodnocení.
 3. V námi vytvořené tabulce si předvyplníme sloupec pro stav plnění a k tomu budeme vždy využívat hodnoty z předpřipraveného číselníku, a to tedy: xxx. Podle tohoto sloupce budeme schopni rychle filtrovat, a navíc to bude hlavní údaj o zhodnocení plnění dané povinnosti.
 4. ❗Pro každou povinnost si v úřadu či organizaci stanovíme, kdo je za ni zodpovědný. To nemusí být ten, kdo ji zrovna fakticky vykonává, ale ten, kdo zodpovídá a dohlíží na její obecné plnění v úřadu. Zodpovědnosti si postupně doplníme do sloupce pro zodpovědnost.

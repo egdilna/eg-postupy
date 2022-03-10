@@ -1,6 +1,6 @@
 # Kontrolní seznam asessmentu EG povinností
 
-Verze 0.1
+Verze 1.0
 
 Zpracováno jako výstup projektu egdilna.cz a partnerů v rámci EG konkrétních postupů
 
@@ -8,17 +8,19 @@ Zpracováno jako výstup projektu egdilna.cz a partnerů v rámci EG konkrétní
 
 Toto je kontrolní seznam a postup zejména využitelný pro architekty a odborníky pro ICT v úřadech. Udává podrobnosti a návody, jak postupovat v jednotlivé oblasti.
 
-- [ ] aktualizovat odstavec Tento postup se týká toho, jak postupovat při zpracování zhodnocení stavu plnění EG povinností (tzv. Asessment povinností) v úřadu.
+Tento postup se týká toho, jak postupovat při zpracování zhodnocení stavu plnění EG povinností (tzv. Asessment povinností) v úřadu.
 
 Postup najdete vždy v rámci repozitáře [GitHub - egdilna/eg-postupy](https://github.com/egdilna/eg-postupy)
 
 Aktuální verze
 
--
+- https://github.com/egdilna/eg-postupy/blob/main/kontrolni-seznam-asessment-egpovinnosti.md
+
 
 Pracovní verze:
 
-- [https://github.com/egdilna/eg-postupy/blob/Work/kontrolni-seznam-asessment-egpovinnosti.md](https://github.com/egdilna/eg-postupy/blob/Work/kontrolni-seznam-asessment-egpovinnosti.md)
+- https://github.com/egdilna/eg-postupy/blob/main/kontrolni-seznam-asessment-egpovinnosti.md
+blob/main/kontrolni-seznam-asessment-egpovinnosti.md)
 
 - [ ] celé přepsat pro asessment povinností Úřad by si měl zpracovat přehled svých informačních systémů a jejich souladu se všemi požadavky eGovernmentu a připravit si roadmapu, jak svoje systémy upravit tak, aby v souladu byly.
 
@@ -58,4 +60,23 @@ Více vždy najdete aktuálně na adrese <http://www.openczeg.cz/povinnosti>
 
 ## Postup zpracování asessmentu a práce s ním
 
-- [ ] Sem pak zkopírovat ty záznamy z Katalogu postupů až to bude správně seřazené a po korektuře
+Při zhodnocení plnění povinností (Assessment povinností) postupujeme následovně:
+
+1.  Otevřeme si Mapu EG povinností jako jeden z hlavních zdrojů povinností k elektronizaci a provedeme vyfiltrování povinností podle všech našich rolí a následně provedeme export filtrovaných dat do CSV souboru.
+2. Vytvoříme si ze zdrojového CSV souboru kupříkladu tabulku v Excelu, nebo v jiném datovém nástroji, kde se nám bude s daty rychle a snadno pracovat. Kromě sloupců z CSV z Mapy povinností, z nichž některé můžeme později odstranit (ovšem pole KÓD necháme vždy), přidáme alespoň sloupce pro Zodpovědnost a Stav plnění a pro naše poznámky. Tím získáme tabulku se všemi povinnostmi a s podklady pro naše zhodnocení.
+3. V námi vytvořené tabulce si předvyplníme sloupec pro stav plnění a k tomu budeme vždy využívat hodnoty z předpřipraveného číselníku, a to tedy: xxx. Podle tohoto sloupce budeme schopni rychle filtrovat, a navíc to bude hlavní údaj o zhodnocení plnění dané povinnosti.
+4. ❗Pro každou povinnost si v úřadu či organizaci stanovíme, kdo je za ni zodpovědný. To nemusí být ten, kdo ji zrovna fakticky vykonává, ale ten, kdo zodpovídá a dohlíží na její obecné plnění v úřadu. Zodpovědnosti si postupně doplníme do sloupce pro zodpovědnost.
+5. Společně s jednotlivými zodpovědnými útvary si do tabulky doplníme do sloupce stav plnění správné hodnoty, případně doplníme nějaký textový popis plnění, a to do nového textového sloupce k tomu určeného. A také zajistíme vyplnění informací o tom, co je třeba udělat, abychom nedostatečně plněnou povinnost řádně plnili.
+6. Kompletně vyplněnou tabulku s podrobnostmi ke všem povinnostem budeme brát za základ znalostí o plnění EG povinností a zajistíme obvyklé projednání a schválení aktuálního stavu. Při schvalování dbáme také na projednání a schválení toho, co musíme v organizaci udělat, abychom naplňovali dosud nedostatečně plněné povinnosti.
+7. Kroky potřebné pro nápravu nedostatečného plnění, či dokonce neplnění jednotlivých povinností, vezmeme jako jeden z hlavních zdrojů informací pro naše budoucí interní projekty a provážeme s případnými projekty i ve zdrojové tabulce, abychom měli snazší sledování postupu v budoucnu.
+8. ❗Výsledek zhodnocení promítneme do svojí informační koncepce v části souladu s legislativou a povinnostmi a v části věnované projektům narovnávajícím neutěšený stav plnění.Také tato data využíváme pro argumentaci, že je třeba něco napravit a jakým způsobem a kdo za to zodpovídá.
+
+VÝSLEDEK:  ☑️Máme v přehledné formě data o tom, jak si plníme EG povinnosti a máme také rámec, jak nedostatky zlepšit. S těmito daty v organizaci samozřejmě dále pracujeme.
+
+💡Data z Assessmentu zpřístupníme vedoucím pracovníkům, aby je měli k dispozici a mohli se jimi řídit a sledovat případné postupy.
+
+❗Data o plnění povinností z našeho Assessmentu pravidelně aktualizujeme a provádíme vyhodnocení zlepšení stavu, a to vždy minimálně při ročním vyhodnocení plnění informační koncepce. Nová data a poznatky vždy využijeme pro vyhodnocení IK a pro její pravidelnou aktualizaci. Nezapomeneme při tom na postup projektů, jež jsme si určili jako ty, které mají zlepšit nedostatky.
+
+Assessment povinností zahrneme jako povinnou součást vnitřní kontroly a sledování a vyhodnocování kvality v organizaci.
+
+TIP:  💡Postup zhodnocení a aktualizace dat v Assessmentu můžeme využít i pro jiné námi identifikované povinnosti, než jsou EG povinnosti uvedené v Mapě povinností. Můžeme tím sledovat i naše povinnosti plynoucí z výkonu agend a dalších činností. Pokud bude výsledkem zhodnocení jiné povinnosti jakýkoliv dopad na IT či architekturu organizace, zahrneme je do Assessmentu sledovaného naší informační koncepcí.

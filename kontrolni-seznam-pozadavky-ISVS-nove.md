@@ -1,6 +1,6 @@
-# EG postupy: Kontrolní seznam požadavků na soulad ISVS se základními požadavky legislativy
+# Kontrolní seznam požadavků na soulad ISVS se základními požadavky legislativy
 
-Verze 0.1
+Verze 1.0
 
 Zpracováno jako výstup projektu egdilna.cz a partnerů v rámci EG konkrétních postupů
 
@@ -14,12 +14,7 @@ Postup najdete vždy v rámci repozitáře [GitHub - egdilna/eg-postupy](https:/
 
 Aktuální verze
 
-- 
-
-Pracovní verze:
-
-- [https://github.com/egdilna/eg-postupy/blob/Work/kontrolni-seznam-pozadavky-ISVS-nove.md](https://github.com/egdilna/eg-postupy/blob/Work/kontrolni-seznam-pozadavky-ISVS-nove.md)
-
+[https://github.com/egdilna/eg-postupy/blob/main/kontrolni-seznam-pozadavky-ISVS-nove.md](https://github.com/egdilna/eg-postupy/blob/main/kontrolni-seznam-pozadavky-ISVS-nove.md)- 
 
 
 

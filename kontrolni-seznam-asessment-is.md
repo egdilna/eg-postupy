@@ -1,6 +1,6 @@
-# EG postupy: Kontrolní seznam asessmentu informačních systémů
+# Kontrolní seznam asessmentu informačních systémů
 
-Verze 0.1
+Verze 1.0
 
 Zpracováno jako výstup projektu egdilna.cz a partnerů v rámci EG konkrétních postupů
 
@@ -14,7 +14,7 @@ Postup najdete vždy v rámci repozitáře [GitHub - egdilna/eg-postupy](https:/
 
 Aktuální verze
 
-- 
+- [https://github.com/egdilna/eg-postupy/blob/main/kontrolni-seznam-asessment-is.md](https://github.com/egdilna/eg-postupy/blob/main/kontrolni-seznam-asessment-is.md)
 
 Pracovní verze:
 
@@ -24,7 +24,12 @@ Pracovní verze:
 
 
 
+ ## Proč asessment IS zpracovávat?
+
 Úřad by si měl zpracovat přehled svých informačních systémů a jejich souladu se všemi požadavky eGovernmentu a připravit si roadmapu, jak svoje systémy upravit tak, aby v souladu byly.
+
+## Jak postupovat
+
 
 Jednotlivé kroky jsou následující:
 

@@ -16,9 +16,7 @@ Aktuální verze
 
 - [https://github.com/egdilna/eg-postupy/blob/main/kontrolni-seznam-asessment-egpovinnosti.md](https://github.com/egdilna/eg-postupy/blob/main/kontrolni-seznam-asessment-egpovinnosti.md)
 
-Pracovní verze:
 
-- [https://github.com/egdilna/eg-postupy/blob/main/kontrolni-seznam-asessment-egpovinnosti.md](https://github.com/egdilna/eg-postupy/blob/main/kontrolni-seznam-asessment-egpovinnosti.md)
 blob/main/kontrolni-seznam-asessment-egpovinnosti.md)
 
 Úřad za účelem vyplnění přílohy své informační koncepce a především pro lepší poznání svých potřeb v rozvoji ICT a činností kolem IT, si zpracovává zhodnocení plnění povinností. Pro IK a samotné řízení informatiky a informačních systémů je přitom nezbytné zejména dobře rozumět a poznat svoje povinnosti k digitalizaci a eGovernmentu, které udávají [klíčové EG zákony](https://www.openczeg.cz/legislativa/). Zpracuje si tedy asessment plnění těchto povinností a využívá jej pro další rozhodování o projektech a prioritách rozvoje.

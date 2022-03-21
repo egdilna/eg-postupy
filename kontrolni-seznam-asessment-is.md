@@ -16,10 +16,6 @@ Aktuální verze
 
 - [https://github.com/egdilna/eg-postupy/blob/main/kontrolni-seznam-asessment-is.md](https://github.com/egdilna/eg-postupy/blob/main/kontrolni-seznam-asessment-is.md)
 
-Pracovní verze:
-
-- [https://github.com/egdilna/eg-postupy/blob/Work/kontrolni-seznam-asessment-is.md](https://github.com/egdilna/eg-postupy/blob/Work/kontrolni-seznam-asessment-is.md)
-
 
 
 

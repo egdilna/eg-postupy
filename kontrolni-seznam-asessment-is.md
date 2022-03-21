@@ -1,5 +1,6 @@
 # Kontrolní seznam asessmentu informačních systémů
 
+
 Verze 1.0
 
 Zpracováno jako výstup projektu egdilna.cz a partnerů v rámci EG konkrétních postupů
